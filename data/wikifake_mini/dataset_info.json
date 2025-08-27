@@ -1,0 +1,36 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "source": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "sourceLabel": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "sourceDescription": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "sourceCategory": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "website": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "merged_dataset_label_map": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "merged_bias": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

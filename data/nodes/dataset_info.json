@@ -1,0 +1,76 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "source": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "sourceLabel": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "sourceDescription": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "sourceCategory": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "source_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "sourceClassLabel_from_nl": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "url": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "bias_from_nl": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "dataset_label_map_from_nl": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "sourceClassLabels": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "sourceClassLabel_from_domain": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "website": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "bias_from_domain": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "dataset_label_map_from_domain": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "merged_dataset_label_map": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "merged_bias": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "__index_level_0__": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

@@ -1,0 +1,40 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "source": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "sourceLabel": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "sourceDescription": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "sourceClassLabel": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "sourceCategory": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "website": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "bias": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "dataset_label_map": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

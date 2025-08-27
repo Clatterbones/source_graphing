@@ -1,0 +1,56 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "subject": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "relation": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "object": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "index": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "subjectLabel": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "relationLabel": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "objectLabel": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "subjectDescription": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "objectDescription": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "subjectClassLabel": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "objectClassLabel": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "__index_level_0__": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

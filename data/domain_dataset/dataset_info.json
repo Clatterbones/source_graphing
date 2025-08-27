@@ -1,0 +1,36 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "index": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "source_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "dataset_label_map": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "source_dataset": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "bias": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
